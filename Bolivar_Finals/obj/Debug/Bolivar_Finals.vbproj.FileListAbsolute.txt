@@ -1,0 +1,47 @@
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\bin\Debug\Bolivar_Finals.exe.config
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\bin\Debug\Bolivar_Finals.exe
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\bin\Debug\Bolivar_Finals.pdb
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\bin\Debug\Bolivar_Finals.xml
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.vbprojAssemblyReference.cache
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.accountview.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.addpin.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.Database.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.depamount.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.deposit.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.deppin.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.entpin.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.Form1.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.Main.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.Resources.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.ViewReceipt.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.withamount.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.withdraw.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.withpin.resources
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.vbproj.GenerateResource.cache
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.vbproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.exe
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.xml
+c:\users\administrator\source\repos\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.pdb
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\bin\Debug\Bolivar_Finals.exe.config
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\bin\Debug\Bolivar_Finals.exe
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\bin\Debug\Bolivar_Finals.pdb
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\bin\Debug\Bolivar_Finals.xml
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.vbprojAssemblyReference.cache
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.accountview.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.addpin.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.Database.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.depamount.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.deposit.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.deppin.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.entpin.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.Form1.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.Main.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.Resources.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.ViewReceipt.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.withamount.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.withdraw.resources
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.vbproj.GenerateResource.cache
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.vbproj.CoreCompileInputs.cache
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.exe
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.xml
+C:\Users\Fe Adornado\Downloads\Bolivar_Finals-20240208T064214Z-001\Bolivar_Finals\Bolivar_Finals\obj\Debug\Bolivar_Finals.pdb
